@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ahmad</h1>
 <h3 align="center">A passionate Back-End developer from Pakiatan</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"  width="450px" align="right" alt="ss">
-- 🔭 I’m currently working on [Industry Mall](https://industrymall.net/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Php, Laravel,Rest API, Amazon Web Services (AWS)**
 
